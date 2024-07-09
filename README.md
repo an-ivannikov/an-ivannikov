@@ -1,19 +1,27 @@
 ![ivannikov.pro](/images/ivannikov.pro_en_960x540.png)
 
 # 👋 Hello! I'm Aleksandr Ivannikov.
-**I am a Senior Full Stack Blockchain Developer with my own Team (UI/UX design, layout, front-end, back-end, illustrations). Each member of our team has more than 5 years of professional experience.**
 
+I am a Senior Full Stack Blockchain Developer with a dedicated team specializing in UI/UX design, frontend, backend, and illustrations. Each team member brings over 5 years of professional experience to ensure your project is in expert hands.
 
-**We provide custom development services for projects in the field of Web3, GameFi, FinTech.**
+## My Tech Stack:
+- **Frontend & Backend**: React.js, Express.js, Node.js, MongoDB.
+- **Blockchain & Smart Contracts**: Ethers.js, Solidity, Ethereum (EVM), Bitcoin, EOS.
+- **Web3 & DApps**: NFTs, DeFi, DEX forks, Blockchain forks, Telegram Bots, Telegram Mini Apps.
 
+## What Can We Do For You?
 
-**How can we help you?**
-- We can either complete a specific task for you or make your project turnkey, including the involvement of external specialists and post-launch support.
+### Comprehensive Services:
+- **Unique Branding & Design**: Tailored UI/UX designs for your Web3 project.
+- **Custom Smart Contracts**: Development of secure, custom smart contracts, including tokens, DAOs, NFTs, vestings, farmings, lotteries, and more, all CertiK security audit-ready.
+- **Forking & Customization**: Creation of forks from any existing open-source Web3 project, customized to fit your needs, including DEXs, blockchain networks (EVM, Bitcoin, EOS), crypto wallets, and marketplaces.
+- **Specific Task Implementation**: Address specific needs like Web3 integration, blockchain processing, referral systems, and Telegram bot development.
+- **Turnkey Solutions**: From your idea to a fully operational project, we deliver end-to-end solutions to meet your unique requirements.
 
+### Our Promise:
+- **Expertise**: Extensive knowledge in blockchain technology and smart contract development.
+- **Customization**: Tailored solutions that align with your business goals.
+- **Security**: High standards of security and reliability in all our projects.
+- **Support**: Ongoing post-launch support to ensure your project's success.
 
-**What exactly can we do for you?**
-- We can develop a unique branding/design/interface for your Web3 project.
-- We can develop custom smart contracts of any complexity that will pass the CertiK security check: tokens, DAO, NFTs, vestings, farmings, lotteries, tokenization and more.
-- We can create a fork of any existing open-source Web3 project and unique it for you: DEXs, blockchain networks (EVM, Bitcoin, EOS, any based), crypto wallets, marketplaces and more.
-- We can implement a specific task for your project: connecting to Web3, working with blockchain, processing, referral systems, telegram bots and more.
-- We can develop a completely unique turnkey project to solve your problem: You give us your idea - we give you a working project.
+Let's bring your Web3 vision to life! Whether you need a specific task completed or a full turnkey solution, we're here to help.
