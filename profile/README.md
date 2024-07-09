@@ -1,4 +1,4 @@
-![ivannikov.pro](/images/ivannikov.pro_en_960x540.png)
+![IVANNIKOV.PRO](/images/ivannikov.pro_en_960x540.png "IVANNIKOV.PRO")
 
 # 👋 Hello! I'm Aleksandr Ivannikov.
 
