@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Aleksandr Ivannikov.
 
-I am a Senior Full Stack Blockchain Developer with a dedicated team specializing in UI/UX design, frontend, backend, and illustrations. Each team member brings over 5 years of professional experience to ensure your project is in expert hands.
+I am a Senior Full Stack Blockchain Developer (Team Leader, Project Manager) with a dedicated team specializing in UI/UX design, frontend, backend, and illustrations. Each team member brings over 5 years of professional experience to ensure your project is in expert hands.
 
 ## My Tech Stack:
 - **Frontend & Backend**: React.js, Express.js, Node.js, MongoDB.
