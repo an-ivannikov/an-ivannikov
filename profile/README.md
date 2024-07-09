@@ -7,7 +7,10 @@ I am a Senior Full Stack Blockchain Developer (Team Leader, Project Manager) wit
 ## My Tech Stack:
 - **Frontend & Backend**: React.js, Express.js, Node.js, MongoDB.
 - **Blockchain & Smart Contracts**: Ethers.js, Solidity, Ethereum (EVM), Bitcoin, EOS.
-- **Web3 & DApps**: NFTs, DeFi, DEX forks, Blockchain forks, Telegram Bots, Telegram Mini Apps.
+- **Web3 & DApps**: NFTs, DeFi, DEX forks, Blockchain forks.
+- **Telegram Bots & Mini Apps**: Telegraf.js, Telegram Bots, Telegram Mini Apps.
+- **Desktop & CLI Apps**: Electron.js, Vercel/pkg for MacOS, Linux, Windows.
+- **Mobile Apps**: Expo.js for iOS, Android.
 
 ## What Can We Do For You?
 
