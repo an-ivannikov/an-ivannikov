@@ -27,4 +27,4 @@ I am a Senior Full Stack Blockchain Developer, Team Leader, Project Manager with
 - **Security**: High standards of security and reliability in all our projects.
 - **Support**: Ongoing post-launch support to ensure your project's success.
 
-**Let's bring your Web3 vision to life! Whether you need a specific task completed or a full turnkey solution, we're here to help.**
+🔥 **Let's bring your Web3 vision to life! Whether you need a specific task completed or a full turnkey solution, we're here to help.**
