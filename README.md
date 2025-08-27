@@ -3,7 +3,7 @@
 # Aleksandr Ivannikov
 **Senior Blockchain & Full Stack Engineer**
 
-[ivannikov.job@gmail.com]() | [LinkedIn](https://www.linkedin.com/in/an-ivannikov/) | [GitHub](https://github.com/an-ivannikov) | [NPM](https://www.npmjs.com/~an-ivannikov) | [LinkTree](https://linktr.ee/ivannikov.pro)
+[ivannikov.job@gmail.com](mailto:ivannikov.job@gmail.com) | [LinkedIn](https://www.linkedin.com/in/an-ivannikov/) | [GitHub](https://github.com/an-ivannikov) | [NPM](https://www.npmjs.com/~an-ivannikov) | [LinkTree](https://linktr.ee/ivannikov.pro)
 
 ___
 
