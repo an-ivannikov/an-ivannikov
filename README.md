@@ -1,30 +1,29 @@
 ![IVANNIKOV.PRO](/images/ivannikov.pro_en_960x540.png "IVANNIKOV.PRO")
 
-# 👋 Hello! I'm Aleksandr Ivannikov.
+# Aleksandr Ivannikov
+**Senior Blockchain & Full Stack Engineer**
 
-I am a Senior Full Stack Blockchain Developer, Team Leader, Project Manager with a dedicated team specializing in UI/UX design, frontend, backend, and illustrations. Each team member brings over 5 years of professional experience to ensure your project is in expert hands.
+[ivannikov.job@gmail.com]() | [LinkedIn](https://www.linkedin.com/in/an-ivannikov/) | [GitHub](https://github.com/an-ivannikov) | [NPM](https://www.npmjs.com/~an-ivannikov) | [LinkTree](https://linktr.ee/ivannikov.pro)
 
-## My Tech Stack:
-- **Frontend & Backend**: React.js, Redux.js, Saga.js, Express.js, Node.js, Redis, MongoDB.
-- **Blockchain & Smart Contracts**: Ethers.js, Solidity, Ethereum (EVM), Bitcoin, EOS.
-- **Web3 & DApps**: NFTs, DeFi, DEX forks, Blockchain forks.
-- **Telegram Bots & Mini Apps**: Telegraf.js, Node.js, Redis, MongoDB, React.js.
-- **Desktop & CLI Apps**: Electron.js, Vercel/pkg (MacOS, Linux, Windows).
-- **Mobile Apps**: Expo.js (iOS, Android).
+___
 
-## What Can We Do For You?
 
-### Comprehensive Services:
-- **Unique Branding & Design**: Tailored UI/UX designs for your Web3 project.
-- **Custom Smart Contracts**: Development of secure, custom smart contracts, including tokens, DAOs, NFTs, vestings, farmings, lotteries, and more, all CertiK security audit-ready.
-- **Forking & Customization**: Creation of forks from any existing open-source Web3 project, customized to fit your needs, including DEXs, blockchain networks (EVM, Bitcoin, EOS), crypto wallets, and marketplaces.
-- **Specific Task Implementation**: Address specific needs like Web3 integration, blockchain processing, referral systems, and Telegram bot development.
-- **Turnkey Solutions**: From your idea to a fully operational project, we deliver end-to-end solutions to meet your unique requirements.
+## Summary
+**Senior Blockchain & Full Stack Engineer** with **12+ years** of software development experience (**8+ years of Web3, DeFi, NFT, and tokenized systems**). Since 2016, I have been working as an **independent contractor and startup consultant**, partnering with early-stage teams. This gave me the opportunity to **deliver end-to-end products** (smart contracts, open source forks, backend APIs, frontend dApps, DevOps) for multiple startups, often as the **first or core engineer** driving product launches.
 
-### Our Promise:
-- **Expertise**: Extensive knowledge in blockchain technology and smart contract development.
-- **Customization**: Tailored solutions that align with your business goals.
-- **Security**: High standards of security and reliability in all our projects.
-- **Support**: Ongoing post-launch support to ensure your project's success.
+Proven track record of raising **$15M+ for clients through token sales and NFT projects**, and delivering **audit-ready smart contracts and scalable platforms**. Thrives in **startup environments**, wearing multiple hats and aligning technical execution with business growth.
 
-🔥 **Let's bring your Web3 vision to life! Whether you need a specific task completed or a full turnkey solution, we're here to help.**
+My key strength is **system-level thinking** - the ability to design project architecture from the ground up, aligning technical execution with business growth. Broad expertise across adjacent fields and high adaptability allow me to **quickly dive into any project** and create effective solutions.
+
+Active **open-source contributor** with GitHub repositories recognized by **stars** and published packages on **NPM**. Additionally, I have published **iOS and Android applications** for blockchain and Web3 projects, gaining hands-on experience in delivering production-ready mobile solutions.
+
+Currently expanding into **AI & AI agents**, exploring practical applications of ML and automation in Web3 and software ecosystems.
+
+
+## Core Skills
+- **Blockchain:** Ethereum (EVM), Bitcoin, EOS (EOSIO).
+- **Smart Contracts:**  OpenZeppelin, Sales, Vesting, Stakings, Farmings.
+- **Cross-Technology Development:** Smart Contracts (Foundry, Hardhat, Ethers.js) + Backend APIs (Node.js, Express.js, RabbitMQ, Redis, MongoDB, Mongoose.js) + Frontend dApps (React, Next.js, Redux.js, Redux-Saga, i18next, WalletConnect) + DevOps (AWS, Linux, Docker, PM2, NGINX).
+- **Languages:** Solidity, JavaScript/TypeScript.
+- **Startup Mindset:** Product-Oriented, Problem-Solving, Team Leadership, Agile Execution.
+- **Familiar With:** TRON, Solana, TON, Golang, C++, Rust, PHP, Python, MySQL, Electron.js, React-Native (Expo.dev), Vue.js, Telegram Bots (telegraf.js), Telegram Mini Apps.
