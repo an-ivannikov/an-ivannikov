@@ -17,12 +17,10 @@ We build practical, developer-first tools. Here are our core repositories:
 ### 🤖 AI & Automation
 * 🛠️ **[skill-creation](https://github.com/ivannikov-pro/skill-creation)**  
   An AI Agent Skill designed to help agents create, maintain, and publish new skills across distributions.
-* 🤖 **[ivannikovProBot](https://github.com/ivannikov-pro/ivannikovProBot)**  
-  Personal Telegram business bot and AI assistant infrastructure.
 
 ### 🌐 Web3 & Infrastructure
-* 🎨 **[nft-traits](https://github.com/ivannikov-pro/nft-traits)**  
-  A powerful generator for NFT traits and metadata building.
+* 🎨 **...**  
+  ...
 
 ### 💖 Open-Source Sustenance
 * 💸 **[send-thanks](https://github.com/ivannikov-pro/send-thanks)**  
