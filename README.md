@@ -45,6 +45,7 @@ My projects and packages live at **[@ivannikov-pro](https://github.com/ivannikov
 
 ### 📫 Let's Connect
 
+[![Website](https://img.shields.io/badge/ivannikov.pro-000000?style=for-the-badge&logo=safari&logoColor=white)](https://ivannikov.pro)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a5c7da95eadd5355)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an-ivannikov)
 
