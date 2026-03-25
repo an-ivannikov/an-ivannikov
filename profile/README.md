@@ -1,29 +1,34 @@
-![IVANNIKOV.PRO](/images/ivannikov.pro_en_960x540.png "IVANNIKOV.PRO")
+# ivannikov-pro
 
-# Aleksandr Ivannikov
-**Senior Blockchain & Full Stack Engineer**
+**Open-source tools & packages by [Aleksandr Ivannikov](https://github.com/an-ivannikov)**
 
-[ivannikov.job@gmail.com](mailto:ivannikov.job@gmail.com) | [LinkedIn](https://www.linkedin.com/in/an-ivannikov/) | [GitHub](https://github.com/an-ivannikov) | [NPM](https://www.npmjs.com/~an-ivannikov) | [LinkTree](https://linktr.ee/ivannikov.pro)
+AI-augmented engineering tools, Web3 utilities, and production-ready packages — built with TypeScript, Solidity, and a focus on developer experience.
 
-___
+---
 
+### 🚀 Featured
 
-## Summary
-**Senior Blockchain & Full Stack Engineer** with **12+ years** of software development experience (**8+ years of Web3, DeFi, NFT, and tokenized systems**). Since 2016, I have been working as an **independent contractor and startup consultant**, partnering with early-stage teams. This gave me the opportunity to **deliver end-to-end products** (smart contracts, open source forks, backend APIs, frontend dApps, DevOps) for multiple startups, often as the **first or core engineer** driving product launches.
+| Project | Description |
+|---------|-------------|
+| **[agent-kit](https://github.com/ivannikov-pro/agent-kit)** | AI agent toolkit — skills, workflows, and agentic coding infrastructure |
 
-Proven track record of raising **$15M+ for clients through token sales and NFT projects**, and delivering **audit-ready smart contracts and scalable platforms**. Thrives in **startup environments**, wearing multiple hats and aligning technical execution with business growth.
+---
 
-My key strength is **system-level thinking** - the ability to design project architecture from the ground up, aligning technical execution with business growth. Broad expertise across adjacent fields and high adaptability allow me to **quickly dive into any project** and create effective solutions.
+### 📦 Packages
 
-Active **open-source contributor** with GitHub repositories recognized by **stars** and published packages on **NPM**. Additionally, I have published **iOS and Android applications** for blockchain and Web3 projects, gaining hands-on experience in delivering production-ready mobile solutions.
+Published on [NPM →](https://www.npmjs.com/org/ivannikov-pro)
 
-Currently expanding into **AI & AI agents**, exploring practical applications of ML and automation in Web3 and software ecosystems.
+---
 
+### 🛠 Tech Stack
 
-## Core Skills
-- **Blockchain:** Ethereum (EVM), Bitcoin, EOS (EOSIO).
-- **Smart Contracts:**  OpenZeppelin, Sales, Vesting, Stakings, Farmings.
-- **Cross-Technology Development:** Smart Contracts (Foundry, Hardhat, Ethers.js) + Backend APIs (Node.js, Express.js, RabbitMQ, Redis, MongoDB, Mongoose.js) + Frontend dApps (React, Next.js, Redux.js, Redux-Saga, i18next, WalletConnect) + DevOps (AWS, Linux, Docker, PM2, NGINX).
-- **Languages:** Solidity, JavaScript/TypeScript.
-- **Startup Mindset:** Product-Oriented, Problem-Solving, Team Leadership, Agile Execution.
-- **Familiar With:** TRON, Solana, TON, Golang, C++, Rust, PHP, Python, MySQL, Electron.js, React-Native (Expo.dev), Vue.js, Telegram Bots (telegraf.js), Telegram Mini Apps.
+`TypeScript` `Solidity` `Node.js` `React` `Next.js` `Foundry` `OpenZeppelin`
+
+---
+
+### 📫 Connect
+
+[![Website](https://img.shields.io/badge/ivannikov.pro-000000?style=flat-square&logo=safari&logoColor=white)](https://ivannikov.pro)
+[![GitHub](https://img.shields.io/badge/GitHub-an--ivannikov-181717?style=flat-square&logo=github)](https://github.com/an-ivannikov)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6fda44?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01a5c7da95eadd5355)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/an-ivannikov)
