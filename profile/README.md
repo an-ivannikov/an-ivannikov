@@ -6,14 +6,17 @@ AI-augmented engineering tools, Web3 utilities, and production-ready packages �
 
 ---
 
+### 🚀 Featured
+
+| Project | Description |
+|---------|-------------|
+| **[agent-kit](https://github.com/ivannikov-pro/agent-kit)** | AI agent toolkit — skills, workflows, and agentic coding infrastructure |
+
+---
+
 ### 📦 Packages
 
 Published on [NPM →](https://www.npmjs.com/org/ivannikov-pro)
-
-| Package | Description |
-|---------|-------------|
-| `@ivannikov-pro/app-config` | Convict-based configuration with dotenv, schema validation |
-| `@ivannikov-pro/app-logger` | Log4js logging wrapper with convict integration |
 
 ---
 
