@@ -39,13 +39,13 @@ Custom AI coding agents, automated pipelines, and intelligent tooling — not a 
 
 ### 📦 Open Source
 
-- **[an-ivannikov](https://www.npmjs.com/~an-ivannikov)** — NPM profile
-- **[@ivannikov-pro](https://www.npmjs.com/org/ivannikov-pro)** — Published NPM packages
+My projects and packages live at **[@ivannikov-pro](https://github.com/ivannikov-pro)** — check it out for AI agent tooling, npm packages, and more.
 
 ---
 
 ### 📫 Let's Connect
 
+[![Website](https://img.shields.io/badge/ivannikov.pro-000000?style=for-the-badge&logo=safari&logoColor=white)](https://ivannikov.pro)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a5c7da95eadd5355)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an-ivannikov)
 
